@@ -1,0 +1,84 @@
+ 
+
+COMPUTER GRAPHICS & 
+
+ANIMATION 
+
+Submitted to: Miss Noor Afshan 
+
+ 
+
+ 
+
+ 
+
+SYED SHAMEER SARWAR 
+
+CT- 044 
+
+      
+
+COMPUTER-GENERATED 
+
+IMAGERY (CGI) 
+
+ 
+
+ 
+
+Computer-generated imagery (CGI) is the application of Computer 
+Graphics to create or contribute to images in art, printed media, video 
+games, films, television programs, shorts, commercials, videos, and 
+simulators. The visual scenes may be dynamic or static and may be two –
+dimensional(2D), though the term “CGI” is most commonly used to refer 3D 
+Computer Graphics used for creating scenes or special effects in films and 
+televisions. 
+
+ 
+
+The term ‘CGI animation’ refers to dynamic CGI rendered as a movie. The 
+term virtual world refers to agent-based, interactive environments. 
+Computer Graphics software is used to make computer-generated imagery for 
+films, etc. Availability of CGI software and increased computer speeds have 
+allowed individual artists and small companies to produce professional-
+grade films, games, and fine art from their home computers. This has 
+brought an internet subculture with its own set of global celebrities, and 
+technical vocabulary. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMPUTER ANIMATION 
+
+Computer animation only applies to dynamic images that resemble a 
+movie. However, in general, the term computer animation refers to dynamic 
+images that do not allow user interaction, and the term virtual world is 
+used for the interactive animated environments. Computer generated 
+animations are more controllable than other more physically based 
+processes such as constructing miniatures for affects shots or hiring extras 
+
+1 | P a g e  
+ 
+
+for crowd scenes, and because it allows the creation of images that would not 
+be feasible using any other technology. 
+
+ 
+
+To create the illusion of movement, an image is displayed on the computer 
+screen and repeatedly replaced by a new image which is similar to the 
+previous image, but advanced slightly in the time domain(usually at a rate of 
+24 or 30 frames per second). This technique is identical to how the illusion of 
+movement is achieved with television and motion pictures. 
+
+ 
+
+2 | P a g e  
+ 
+
+
